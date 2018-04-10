@@ -1,0 +1,11 @@
+
+body {
+    background: white;
+}
+
+/*
+Make the output image look better.
+*/
+svg {
+    padding: 5px;
+}

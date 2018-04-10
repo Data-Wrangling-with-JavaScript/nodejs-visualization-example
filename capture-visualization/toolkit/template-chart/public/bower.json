@@ -1,0 +1,21 @@
+{
+  "name": "c3-template-web-page",
+  "homepage": "https://github.com/JavaScript-Data-Wrangling/Chapter-10",
+  "authors": [
+    "Ashley Davis <ashley@codecapers.com.au>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "c3": "^0.4.18"
+  }
+}
