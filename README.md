@@ -8,11 +8,11 @@ Example code here accopmanies [my article on CSS tricks](http://bit.ly/2HW3W0b).
 
 basic-visualization/
 
-    This sub-directory contains a simple web app swith an example chart using C3.
+This sub-directory contains a simple web app swith an example chart using C3.
 
 capture-visualization/
 
-    Working Node.js example that uses headless browser Nightmare/Electron to capture a browser-based visualization (chart) to a PNG image file.
+Working Node.js example that uses headless browser Nightmare/Electron to capture a browser-based visualization (chart) to a PNG image file.
 
 ## Data Wrangling with JavaScript
 
