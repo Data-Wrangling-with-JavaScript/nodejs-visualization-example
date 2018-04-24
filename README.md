@@ -2,7 +2,7 @@
 
 An example that shows how to use the Nightmare headless browser to capture web-based visualizations under Node.js.
 
-Example code here accopmanies [my article on CSS tricks](https://css-tricks.com/server-side-visualization-with-nightmare/).
+Example code here accopmanies [my article on CSS tricks](http://bit.ly/2HW3W0b).
 
 ## Examples
 
